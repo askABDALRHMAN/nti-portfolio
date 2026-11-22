@@ -1,2 +1,7 @@
-# nti-portfolio
-Personal portfolio landing page - NTI full-stack course task. Live: https://ask-nti-first.netlify.app/
+# Personal Portfolio (NTI Task)
+
+A personal portfolio landing page built during the NTI Full Stack Web Development course to showcase front-end skills and tech stack.
+
+**Live:** https://ask-nti-first.netlify.app/
+
+Timeline: May 2026
